@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.gameDescription>إظهار وصف الألعاب</theme.gameDescription>
     <carouselViewName>الدائري الأفقي</carouselViewName>
     <ps4StylelViewName>نمط PS4</ps4StylelViewName>    
+    <ps5StylelViewName>نمط PS5</ps5StylelViewName>    
     <theme.mainImage>الصورة المميزة</theme.mainImage>    
     <theme.gridImage>صورة دائرية أو شبكية</theme.gridImage>
     <fullGridlViewName>الشبكة الكاملة</fullGridlViewName>

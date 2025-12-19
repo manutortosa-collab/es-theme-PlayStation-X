@@ -160,6 +160,8 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
          <path>${themePath}/_theme_inc/images/caratulas/${system.theme}.jpg</path>
          <path>${themePath}/_theme_inc/images/caratulas/${system.theme}.png</path>
          <path ifSubset="colorset:black">${themePath}/_theme_inc/images/caratulas/${system.theme}-b.png</path>
+         <roundCorners ifSubset="carousel-type:PS5">0.15</roundCorners>
+         <roundCorners ifSubset="carousel-type:PS3|PS4">0</roundCorners>
          <autoFade>false</autoFade>
          <opacity>0</opacity>
          <zIndex>99</zIndex>

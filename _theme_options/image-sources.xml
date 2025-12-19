@@ -132,7 +132,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
    </image>
 
 
-   <image name="marquee-grid, marquee-carousel, marquee-ps4Style, marquee-single, marquee-full-grid" ifSubset="main-origin:marquee" extra="true">
+   <image name="marquee-grid, marquee-carousel, marquee-ps4Style,  marquee-single, marquee-full-grid" ifSubset="main-origin:marquee" extra="true">
       <path>{game:marquee}</path>
       <maxSize>0.18 0.25</maxSize>
       <visible>true</visible>
@@ -143,23 +143,23 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
       <visible>true</visible>
    </image>
 
-   <image name="cartridge-grid, cartridge-carousel, cartridge-ps4Style, cartridge-single, cartridge-full-grid" ifSubset="main-origin:cartridge" extra="true">
+   <image name="cartridge-grid, cartridge-carousel, cartridge-ps4Style,  cartridge-single, cartridge-full-grid" ifSubset="main-origin:cartridge" extra="true">
       <path>{game:cartridge}</path>
       <maxSize>0.18 0.25</maxSize>
       <visible>true</visible>
    </image>
 
-   <image name="fanart-grid, fanart-carousel, fanart-ps4Style, fanart-single, fanart-full-grid" ifSubset="main-origin:fanart" extra="true">
+   <image name="fanart-grid, fanart-carousel, fanart-ps4Style,  fanart-single, fanart-full-grid" ifSubset="main-origin:fanart" extra="true">
       <path>{game:fanart}</path>
       <visible>true</visible>
    </image>
 
-   <image name="titleshot-grid, titleshot-carousel, titleshot-ps4Style, titleshot-single, titleshot-full-grid" ifSubset="main-origin:titleshot" extra="true">
+   <image name="titleshot-grid, titleshot-carousel, titleshot-ps4Style,  titleshot-single, titleshot-full-grid" ifSubset="main-origin:titleshot" extra="true">
       <path>{game:titleshot}</path>
       <visible>true</visible>
    </image>
 
-      <image name="boxback-grid, boxback-carousel, boxback-ps4Style, boxback-single, boxback-full-grid" ifSubset="main-origin:boxback" extra="true">
+      <image name="boxback-grid, boxback-carousel, boxback-ps4Style,  boxback-single, boxback-full-grid" ifSubset="main-origin:boxback" extra="true">
       <path>{game:boxback}</path>
       <visible>true</visible>
    </image>
@@ -209,6 +209,19 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 </image>
 
  </customView>
+
+  <!-- 
+
+  <customView name="ps5Style">
+
+	<image name="image-grid, thumbnail-grid,marquee-grid, boxart-grid, cartridge-grid, titleshot-grid, fanart-grid, boxback-grid">
+	   <visible>true</visible>
+	   <pos>-2 -2</pos>
+	</image>
+
+
+</customView>
+ps5Style -->
 
  <!-- single -->
 

@@ -236,7 +236,8 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
          <zIndex>98</zIndex>
       </image>
 
-      <image name="caratula-top" extra="static">
+
+      <image name="caratula-top" extra="true">
          <pos>0.015 0.02</pos>
          <origin>0 0</origin>
          <alignment>center</alignment>
@@ -251,6 +252,8 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
          <autoFade>false</autoFade>
          <opacity>0</opacity>
          <zIndex>99</zIndex>
+         <roundCorners ifSubset="carousel-type:PS5">0.15</roundCorners>
+         <roundCorners ifSubset="carousel-type:PS3|PS4">0</roundCorners>
          <linearSmooth>true</linearSmooth>
          <storyboard>
             <animation property="offsetX" from="-0.1" duration="600" mode="easeOutCubic" />

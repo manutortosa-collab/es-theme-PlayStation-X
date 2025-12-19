@@ -169,6 +169,37 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
       </customView>
 
+       <!-- ps5Style 
+
+ <customView name="ps5Style"  ifSubset="game-video:inside|default|window">
+
+   <imagegrid name="gamegrid">
+      <showVideoAtDelay ifSubset="video-gamelist-delay:0s">1</showVideoAtDelay>
+      <showVideoAtDelay ifSubset="video-gamelist-delay:05s">500</showVideoAtDelay>
+      <showVideoAtDelay ifSubset="video-gamelist-delay:1s">1000</showVideoAtDelay>
+      <showVideoAtDelay ifSubset="video-gamelist-delay:2s">2000</showVideoAtDelay>
+      <showVideoAtDelay ifSubset="video-gamelist-delay:3s">3000</showVideoAtDelay>
+   </imagegrid>
+
+   <video ifSubset="game-video:background" name="game-video">
+      <zIndex>49</zIndex>
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <origin>0 0</origin>
+      <storyboard>
+         <animation property="opacity" from="0" to="1" duration="800" mode="easeIn" />
+      </storyboard>
+   </video>
+
+   <video ifSubset="game-video:default|window" name="game-video">
+      <pos>-2 -2</pos>
+      <visible>false</visible>
+      <opacity>0</opacity>
+   </video>
+ 
+ </customView>
+ -->
+
       <!--carousel-->
 
       <customView name="carousel">

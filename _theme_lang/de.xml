@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.gameDescription>Spielbeschreibungen anzeigen</theme.gameDescription>
     <carouselViewName>Horizontales Karussell</carouselViewName>
     <ps4StylelViewName>PS4-Stil</ps4StylelViewName>    
+    <ps5StylelViewName>PS5-Stil</ps5StylelViewName>    
     <theme.mainImage>Ausgewähltes Bild</theme.mainImage>    
     <theme.gridImage>Karussell- oder Rasterbild</theme.gridImage>  
     <fullGridlViewName>Vollständiges Raster</fullGridlViewName>

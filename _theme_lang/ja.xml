@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		<theme.gameDescription>ゲームの説明を表示する</theme.gameDescription>
 		<carouselViewName>水平回転木馬</carouselViewName>
 		<ps4StylelViewName>PS4 スタイル</ps4StylelViewName>		
+		<ps5StylelViewName>PS5 スタイル</ps5StylelViewName>		
 		<theme.mainImage>注目の画像</theme.mainImage>		
 		<theme.gridImage>カルーセルまたはグリッド画像</theme.gridImage>
 		<fullGridlViewName>フルグリッド</fullGridlViewName>

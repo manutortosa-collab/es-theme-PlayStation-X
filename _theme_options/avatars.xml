@@ -70,6 +70,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		<image.avatar ifSubset="system-avatar:robocop">robocop.png</image.avatar>
 		<image.avatar ifSubset="system-avatar:rollingthunder">rollingthunder.png</image.avatar>
 		<image.avatar ifSubset="system-avatar:shenmue">shenmue.png</image.avatar>
+		<image.avatar ifSubset="system-avatar:spiderman">spiderman.png</image.avatar>
 		<image.avatar ifSubset="system-avatar:ryu">ryu.png</image.avatar>
 		<image.avatar ifSubset="system-avatar:sephirot">sephirot.png</image.avatar>
 		<image.avatar ifSubset="system-avatar:sonic">sonic.png</image.avatar>

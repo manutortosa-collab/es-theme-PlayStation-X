@@ -1,3 +1,15 @@
+Version 42.3 (December 19, 2025)
+
+- Change: Logos for 3DO system
+- Change: The top left logo has been rounded when the systems carousel is PS5
+- Change: The PS5-Style system carousel has been left as the default.
+- Update: RU translation (Thanks to Vortex)
+- Fix: 3DO and 32X labels displayed Nintendo NES in automatic and custom collection.
+- Added: Spider-Man (Thx to renetrox) to image avatar list.
+
+
+
+-----------------------
 Version 42.2 (October 24, 2025)
 
 - New: 21:9 Aspect ratio compatibility (UltraWide screen)

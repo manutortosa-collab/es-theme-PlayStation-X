@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.gameDescription>הצג תיאורי משחקים</theme.gameDescription>
     <carouselViewName>קרוסלה אופקית</carouselViewName>
     <ps4StylelViewName>סגנון PS4</ps4StylelViewName>    
+    <ps5StylelViewName>סגנון PS5</ps5StylelViewName>       
     <theme.mainImage>תמונה מוצגת</theme.mainImage>    
     <theme.gridImage>תמונת רשת</theme.gridImage>
     <fullGridlViewName>רשת מלאה</fullGridlViewName>

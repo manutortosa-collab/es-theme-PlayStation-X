@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.gameDescription>Jokoaren deskribapenak erakutsi</theme.gameDescription>
     <carouselViewName>Karrusel horizontala</carouselViewName>
     <ps4StylelViewName>PS4 estiloa</ps4StylelViewName>    
+    <ps5StylelViewName>PS5 estiloa</ps5StylelViewName>    
     <theme.mainImage>Irudi aipagarria</theme.mainImage>    
     <theme.gridImage>Karrusela edo sareta irudia</theme.gridImage>
     <fullGridlViewName>Sare hedatua</fullGridlViewName>    

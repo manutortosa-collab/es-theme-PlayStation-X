@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.gameDescription>Pokaż opisy gier</theme.gameDescription>
     <carouselViewName>Karuzela pozioma</carouselViewName>
     <ps4StylelViewName>Styl PS4</ps4StylelViewName>    
+    <ps5StylelViewName>Styl PS5</ps5StylelViewName>    
     <theme.mainImage>Obraz wyróżniony</theme.mainImage>    
     <theme.gridImage>Obraz karuzeli lub siatki</theme.gridImage>
     <fullGridlViewName>Pełna siatka</fullGridlViewName>

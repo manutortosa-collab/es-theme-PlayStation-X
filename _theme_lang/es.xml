@@ -80,6 +80,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.gameDescription>Mostrar descripciones de juegos</theme.gameDescription>
     <carouselViewName>Carrusel horizontal</carouselViewName>
     <ps4StylelViewName>Estilo PS4</ps4StylelViewName>
+    <ps5StylelViewName>Estilo PS5</ps5StylelViewName>
     <theme.mainImage>Imagen Destacada</theme.mainImage>
 		<theme.gridImage>Imagen del carrusel o cuadrícula</theme.gridImage>
     <fullGridlViewName>Cuadrícula ampliada</fullGridlViewName>
