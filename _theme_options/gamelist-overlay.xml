@@ -218,8 +218,9 @@ https://githugam.com/pajarorrojo/es-theme-PlayStation-X
         <path>
           contains(lower({game:name}), 'simpson') || contains(lower({game:rom}), 'simpson') ? '${themePath}/${theme.overlayArtsPath}/Simpsons.png' : ''
           || contains(lower({game:name}), 'he-man') || contains(lower({game:name}), 'masters of the universe') || contains(lower({game:rom}), 'he-man') || contains(lower({game:rom}), 'masters of the universe') || contains(lower({game:name}), 'masters del universo') ? '${themePath}/${theme.overlayArtsPath}/He-Man.png' : ''
+          || contains(lower({game:name}), 'kishin douji') || contains(lower({game:rom}), 'kishin douji') ? '${themePath}/${theme.overlayArtsPath}/Vajra Fight.png' : ''
         </path>
-    </image>
+     </image>
 
 
         <!-- añadir tambien en vistas especificas ps4 y single -->
